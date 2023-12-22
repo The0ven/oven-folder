@@ -1,0 +1,2 @@
+#article 
+A former great empire of [[Selfalora]]. United Horocia, Lanfara and Heurocija. Horocian royals have widespread influence over the continent, most notably the [[Valbaneea]]n direct succession and some notable [[Mavaria]]n families. The empire was dissolved after a vision from god caused the Generals to surrender to the [[Jangaraja Empire]] during a massive war between the two. Known for their advances in astronomy, and [[Gillijo Valoni]]'s [[Journey to the West]].

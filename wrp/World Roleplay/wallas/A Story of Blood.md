@@ -1,0 +1,6 @@
+[[Development]]
+[[Military]]
+[[Culture]]
+[[_Ravhavan Union]]
+
+As the military recruitment has expanded throughout the clans, and wars have spread far past the borders of the Union, battle has been entrenched as part of Ravhavan culture. Rising through military ranks is seen as an honorific and a status symbol among those able bodied enough to fight, and seeing the effect this has on the people a campaign is thought up to allow artists, writers, and other creatives to travel with soldiers and both entertain them as well as record the history of battles through art. Stories and paintings of battle explode in popularity throughout the union as children grow up dreaming of fighting for their honor and tribe. One of the most famous artists from this period is a writer by the name [[uLimba]] who has been developing a comprehensive military history of Ravhava, dating from the first skirmished between the tribes, through the first meetings and creation of the union, and into the modern day of the expeditions against the Valtir.

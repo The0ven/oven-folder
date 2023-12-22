@@ -1,0 +1,2 @@
+#article 
+Small naval state, and the easternmost nation of [[Mavaria]]. Controlled at some point by [[Karlo Mavarax]]. East of [[Holy Mavar State]]. Only Mavarian state to not have any ties to the [[War of Three Kings]].

@@ -1,0 +1,2 @@
+#article 
+Large duchy in the east of [[Mavaria]], allied with [[Valbaneea]] in the [[War of Three Kings]]. Bordered to the south by the [[City of Maris]], the west by [[Twinia]], the north by Valbaneea, and the east by [[City of Vikend]], [[City of Dragulj]], and [[City of Navoria]].

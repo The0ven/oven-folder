@@ -1,0 +1,2 @@
+#article 
+Large kingdom in southern [[Mavaria]], representing the monarchy of the old Mavar people. Bordered to the south by the sea, the north west by [[City of Vikend]], the north east by [[Toro Tribes]], and the south east by [[Holy Mavar State]].

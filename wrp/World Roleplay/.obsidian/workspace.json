@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "7b2b01c37f727453",
+    "type": "split",
+    "children": [
+      {
+        "id": "09c6c88ab94d983a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4e1359d042cc970",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ravhavan/_Ravhavan Union.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2fcb2a01d1d5af2e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "cb1391b9730b6046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ravhavan/Awalentse Civil War.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91e2e055e0e6494e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Battle of Jersan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d63e96c6ddd8b5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9ecbf108ad7c9ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1291a2f490301a4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "945a2a55c0b21a6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b95a69b53a2871e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fb9df8c4ff73418c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7263a97a051364db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc94f4ce01a278c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ravhavan/Awalentse Civil War.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a6f8f0e3e72155d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ravhavan/Awalentse Civil War.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f510d90b01d64af7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7607febd94143e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ravhavan/Awalentse Civil War.md"
+              }
+            }
+          },
+          {
+            "id": "3abfa30db185b6dc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "8c9b5943f6eb3499",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Ravhavan/Awalentse Civil War.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "cb1391b9730b6046",
+  "lastOpenFiles": [
+    "Ravhavan/Awalentse Civil War - 1.md",
+    "Ravhavan/Awalentse Civil War.md",
+    "Ravhavan/Awalentse Civil War - 2.md",
+    "Battle of Jersan.md",
+    "Foreman.md",
+    "Valdee.md",
+    "Gran Militi.md",
+    "International/Reclaiming the Lost Throne.md",
+    "wallas/Backroom Dealings.md",
+    "International/Yurmic-Thalertian War - 4 - Yurmic.md",
+    "International/Yurmic-Thalertian War - 4.md",
+    "International/Yurmic-Thalertian War.md",
+    "International/Yurmic-Thalertian War - 2.md",
+    "International/Yurmic-Thalertian War - 4 - Thalertia.md",
+    "International/Yurmic-Thalertian War - 3.md",
+    "International/Yurmic-Thalertian War - 3 - Thalertia.md",
+    "wallas/A Throne in Mourning.md",
+    "wallas/The Last March.md",
+    "wallas/Roads Paved of Sand.md",
+    "wallas/Mindset for a King.md",
+    "Ravhavan/Mbakena.md",
+    "wallas/A New Era.md",
+    "wallas/Prophetic Return.md",
+    "files/Pasted image 20231204000136.png",
+    "Ravhavan/Wheonik.md",
+    "Ravhavan/Tchankh.md",
+    "Ravhavan/_Ravhavan Union.md",
+    "files/Pasted image 20231129204417.png",
+    "files/Pasted image 20231129204410.png",
+    "files/Pasted image 20231112133900.png",
+    "files/Pasted image 20231112133836.png",
+    "files/Thernik2 1.png",
+    "files/Thernik2.png",
+    "files/Thernik1.png",
+    "files/Pasted image 20231109203734.png",
+    "files/Pasted image 20231109203628.png",
+    "files/Maurice’s Strategikon. Handbook of Byzantine Military Strategy by Maurice Dennis, George T. (trans.) (z-lib.org) 1.pdf",
+    "Ravhavan",
+    "files/Maurice’s Strategikon. Handbook of Byzantine Military Strategy by Maurice Dennis, George T. (trans.) (z-lib.org).pdf",
+    "Excalidraw",
+    "International",
+    "templates",
+    "files/Ravhavan.tex",
+    "files/Unconfirmed 370914.crdownload",
+    "files",
+    "wallas"
+  ]
+}

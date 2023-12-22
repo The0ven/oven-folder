@@ -1,0 +1,2 @@
+#article 
+City state allied to [[Zavaria]] in the [[War of Three Kings]]. Bordered by [[City of Navoria]] to the north, [[Riveria]] to the west, [[City of Vikend]] to the south, and [[Toro Tribes]] to the east.

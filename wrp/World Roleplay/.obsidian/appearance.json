@@ -1,0 +1,9 @@
+{
+  "accentColor": "#4a8c55",
+  "cssTheme": "Typewriter",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "italics",
+    "codeblocks"
+  ]
+}

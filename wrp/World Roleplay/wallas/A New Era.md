@@ -1,0 +1,18 @@
+[[Stories]]
+[[Development]]
+[[Infrastructure]]
+[[_Ravhavan Union]]
+[[Military]]
+
+*The Ravhavan Union is truly in a new era, the army greatly expanded, the tribes working in perfect harmony with both national and tribal identity, large projects of engineering and scientific development completed. These past years have been marked by great accomplishment after great accomplishment and the union does not seem to be slowing down.*
+
+Basic steel has long been part of the Ravhavan [[Economy]], however its quality, like that of other steels throughout the continent, has been lacking and it has always been quite expensive forcing it to be reserved for use in blades and little else. However, [[Eneb]] smelters have developed a new method of steel production that allows for much larger batches to be smelted in a much faster time, and a process for molding this new steel.
+
+*First, a large pile of magnetite ore is sealed in clay crucible with a small tap on one side, and heated to around 800C to melt off any slag, then the hole was made to face upwards and the furnace's large hatch was opened, allowing the very powerful desert winds and sandstorms to power the furnace up to 1100C, blending the iron ore with carbon from leaves backed into the crucible. The wind is then redirected through the closing and opening of hatches to blast the open face of the crucible from above, cooling the mixture. This is repeated 2-3 times until the smelter is satisfied with the visual consistency of the steel. The steel is then poured into casts for small items like fasteners or odd shapes like armor or allowed to partially cool before being cut hammered and quenched, a new technique where hot steel is thrust into cold water to cool it faster rather than allowing it to air dry, to form things like blades and other tools.*
+
+*The combination of batch smelting, otherwise unachievable temperatures through wind power, and the casting/quenching methods allow for extremely efficient steel production. With the designs of these furnaces easy to replicate and the desert large enough to hold millions of them the new limiting factor on steel production is the rate of extraction, which is also being increased as more and more magnetite is dedicated to steel production rather than creating raw iron. With this new surplus of steel its use becomes extremely prevalent throughout the empire, both in civilian and military use. Steel is used to reinforce traditional construction materials like concrete, allowing very high rigidity while reducing brittleness. Steel also becomes more prevalent as a lighter and stronger alternative to iron in things like armor, especially horse armor, which was much too expensive to have been made of steel before. A few new inventions also come along thanks to the huge surplus of steel. Footholds for riders are attached to saddles for the first time, as iron was much too heavy, allowing riders to become one with their horses, controlling them easier especially while the hands are busy as well as transferring the horse's force into melee attacks for much more powerful strikes.*
+
+*With the success of the steel innovations the union also comes to recognize the power of science and industrial advancement. [[Emira]] considers this a massive new priority for the Union and consults with the chiefs to decide how to proceed...*
+
+ Artist's representation of the complex of smelteries at [[Ves]]
+ ![[Pasted image 20230905182541.png]]

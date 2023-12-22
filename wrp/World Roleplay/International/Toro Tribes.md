@@ -1,0 +1,2 @@
+#article 
+United collection of Mavar tribes situated in the dense jungle. Allied with [[Zavaria]] in the [[War of Three Kings]]. Bordered by [[Holy Mavar State]] to the north east and south east with sea to the direct east and [[Zavaria]] to the south. [[City of Vikend]], [[City of Dragulj]], and [[City of Navoria]] all sit on the western border of the tribes and [[Valbaneea]] borders it to the north.

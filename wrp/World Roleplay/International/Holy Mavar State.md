@@ -1,0 +1,2 @@
+#article 
+Union of two states in eastern [[Mavaria]] representing the seat of Serpentine power. Allied with [[Zavaria]] in the [[War of Three Kings]] via the deployment of the [[Trifarix Legion]]. Split by the [[Toro Tribes]], bordered to the east by the sea, the south west by [[Zavaria]], the north by [[Valbaneea]], and the north east by [[Navarre]]. 

@@ -1,0 +1,27 @@
+#MOC 
+Continent north of the [[Great Mountains]].
+- [[Zhaudiff]]: 220k
+- [[Uraqtu]]: 330k
+- [[Sirfigyca]]: 2.2 million
+- [[Sepulvaria]]: 3.2 million
+- [[Heliljsfall]]: 1.1 million
+- [[Idhepirothipa]]: 480k
+- [[Iturime]]: 4.6 million
+- [[Golden Imperium]]: 4 million
+- [[Maliniya-Polania]]: 1.8 million
+- [[Anuva]]: 2.5 million
+- [[Khaokhram]]: 3.1 million
+- [[Latvin Empire]]: 3.9 million
+- [[_Ravhavan Union]]: 2.1 million
+- [[Awalentse]]: 650k
+- [[Xie]]: 400k
+- [[Csarian Empire]]: 3.6 million
+- [[Meridia]]: 700k
+- [[Belkin]]: 350k
+- [[Da Chu]] Dynatsy: 1.7 million
+- [[Yuhan Republic]]: 1.2 million
+- [[Avaloria]]: 400k
+- [[Faelan Tribes]]: 320k
+- [[Malakai]]: 630k
+- [[Sylonesia]]: 690k
+- [[Asbury]]: 300k

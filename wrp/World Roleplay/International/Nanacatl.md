@@ -1,0 +1,2 @@
+#article 
+A large kingdom on the southern shore of [[Selfalora]], Nanacatl is a deeply religious state founded on the beliefs of the great mushroom god. Bordered to the north by [[Jangaraja Empire]], East by [[Twinia]], south by the Conqueror's Sea, and east by [[Bottanic Kingdom]].

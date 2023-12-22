@@ -1,0 +1,2 @@
+#article 
+City state allied to [[Zavaria]] in the [[War of Three Kings]]. Bordered by [[City of Dragulj]] to the north, [[Riveria]] to the west, the sea to the south, [[Zavaria]] to the south east, and [[Toro Tribes]] to the north east.

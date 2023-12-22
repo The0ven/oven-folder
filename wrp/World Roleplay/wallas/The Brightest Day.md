@@ -1,0 +1,6 @@
+[[Stories]]
+[[History]]
+[[Development]]
+[[_Ravhavan Union]]
+
+*All hope for Ravhava is not lost however, as [[Emira]] and her husband [[Lev]] have bided their time in order to launch their campaign to move the tribes forwards. The death of Itab, the [[Ibni]] tribe loses a great leader and general but also the most traditionalist faction of the tribes slips out of power. Emira moves to push the tribes together once again, encouraging a new era of collaboration within them. The council of tribal leaders is brought together for the first time since the death of [[Mbakena]], to focus on a new life for the tribes. The tribes will now officially be known as the Ravhavan Union, no longer disparate bands of nomadic peoples but a united force. The Ibni are also given allowances to move west into the desert and parcel land to their tribesmen, so long as they do not encroach on lands already occupied by Valente. The [[Elh]] tribe are also granted coastal lands to establish ports and shipbuilding towns to expand the extremely valuable trade networks further south and north into the open sea.*

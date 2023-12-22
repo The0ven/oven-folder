@@ -1,0 +1,51 @@
+[[Stories]]
+[[Religion]]
+[[Religious development]]
+[[_Ravhavan Union]]
+
+*[[Neung]] lay awake on his cot, the straw beneath him rough on his bare back. He felt beads of sweat drip down his face, pooling at the point his neck met the bedding. Staring up at the ceiling, he decided he would give up on trying to sleep tonight. Standing up from his bed he walked over to his desk and removed the thatch covering from his window, allowing the piercing moonlight to pour in and illuminate the large tome sitting open on his desk. He scratched his beard, sitting down to read the book he had read so many times. He flipped through near to the beginning of the book and began to read.*
+
+[[Klim Chak]] Chapter 1: Genesis - By [[Haghba]] Klim
+Section 3:
+
+"...to know the unknown. That was the true power of [[Klah]]. As the original being it was alone in the grand void of life and lusted heavily for entertainment. Klah peered deep into the void and in viewing things and believing it's eyes, those things which it viewed became true. I believe this practice of creation through discovery and description is something we are all capable of, as we are all children of Klah as we are spawn of the people of [[Name]] who are spawn of [[Puhl]] who was spawn of Klah. And so we can trace our lineage back to the original being of the void and so we must contain some small portion of that power, inheriting spiritual wealth as kin inherit material wealth of their ancestors. To live a life of peace and happiness one must activate this power to the best of their abilities, willing their dreams into existence and dreaming their wills. Many say that the acts of healing I perform are miracles of godly power, and my visions prophecies of the gods, but I have simply communed with the gods in the realm we both inhabit, the realm of the mind. Dreams are the key to entering this realm and I dream of what I desire and once dreamed, desire what I have learned from the gods in my dreams."
+
+*Neung leaned back from the book, his chair tipping onto the hind legs like a frightened horse rearing. He'd read this passage hundreds of times, it was considered one of the most important in the book and yet he could not understand it, no matter how hard he tried and how much he faked it. He had been plagued with insomnia and poor sleep since he was a young child, it getting so bad that his parents eventually decided to send him to a monastery of the [[Blind Sisters]] to help him heal. The priests worked hard communing with the gods and trying hundreds of salves and balms, each more complex and rare than the last. Nothing worked, leading him to over time become the only patient of the Sisters to stay with them for a prolonged time. Over years he had become ingratiated with their small group and of course with this he became extremely familiar with the texts on which they based their practices. As his mind wandered to this, he was reminded of the moment he was in and the book sitting open on the desk in front of him. He redoubled his efforts, leaning forwards again and flipping to a new page.*
+
+/
+
+Klim Chak Chapter 4: Affairs of Gods - By Haghba Klim
+Section 13:
+
+"[[Ngok]] remained enamored with Klah even after it rejected them, but they never again tried to approach the original being. Instead Ngok took great enjoyment in teasing forth the love of both mortals and even the other gods. Puhl and [[Ngtsu]] both over time became obsessed with winning the affection of Ngok but with each attempt and grand gesture Ngok delighted more in denying their advances. Ngok turned the two against each other, encouraging them to compete against each other to capture her eye. The two gods began to feud between each other, much to the annoyance of Klah, which made Ngok enjoy the affair even more. One day, Ngok informed the gods she would be travelling off into the void for a long time and that she would return with her final decision on whether Puhl or Ngtsu deserved their affection more. So she departed alone peering deep into the extending blackness and both Puhl and Ngtsu agreed they would wait for her return peacefully. They then both immediately turned inwards to plan a grand effort to please Ngok upon her return. This secrecy did not last long, as Ngtsu turned to the [[Ibni]] tribe to help and Puhl to the [[Eneb]], both hoping that the children of Ngok would be able to understand her desires better and aid them in winning her over. The word of the gods plans eventually spread between the tribes and in time both found out about the other's machinations. Thus began the great tribal war, as the Eneb and Ibni were turned against each other by the gods in order to prove their love to Ngok. Reflecting on this we must remember that after the near destruction of both tribes, Ngok returned to find her suitors had nearly caused the end of her favorite children and her most proud creation. After which she barred the two from ever again appearing to the humans and influencing their affairs. Thus restricting us humans from ever again witnessing the greatest beauty imaginable in their pure forms. The results of such feuds will always be this, holding anger, je ... , or hatred in your heart will only reflect these ...gs back on you and those you hold dear. Inst ... gave Klah, for if she could forgive a trespass so great it caused a God to weep then our sim ... fairs must be easy to forgive. Beli..."
+
+*Neung's vision blurred as he read, his eyes fluttering closed. As his finger began to trace the next passage the darkness embraced him and the next thing he knew his body felt weightless. He saw only black around him but as he tried to open his eyelids he found he could not. A voice pierced the silence, rough yet warm like the sound of sand moving with the footsteps of a traveler:*
+
+"Hello Neung, do not worry, you are safe here. You have lived a very difficult life with very few times of serenity so this must be unfamiliar to you but allow your body to relax so your mind can take over. You are now in a space of the mind and your body is holding you back. Believe these truths and relax Neung. Neung. Neung. Neu..."
+
+/
+
+"NEUNG! NEUNG! NEUNG!"
+
+*The high priest shuddered awake, peeling his face from the open page of the book, his finger still pointing to the phrase "Believe these truths...". He looked up to see a figure standing over him, shaking his shoulders and speaking his name loudly. While he could not make out the face thanks to the bright sunlight shining through his door that framed the figured, but he recognized the voice immediately. Rubbing his eyes he pushed back his chair from the desk and stood facing the figure from a new direction. Staring back at him were two familiarly blank gray eyes, though he could swear he saw small luminous dots floating in the deepest depths of the pupils for the first time.*
+
+"Hello Sister [[Tchyen]], do not worry, I am alright my eyes simply fluttered as I was reading so late into the night. Is everything alright? For what reason is your tone so urgent."
+
+*The old woman quickly nodded, her eyes following Neung's voice as he walked towards his wardrobe and donned a thin shawl to cover his torso. She waited until he turned back towards her, then waited a second more as if processing all the sounds to ensure he was in fact facing her.*
+
+"Yes of course, I apologize if I disturbed you, we all know how valuable the little sleep you get is. Well I was sleeping in my chambers, as always, and suddenly during my slumber you appeared in my dreams. I was overjoyed at first, as you know none of us have been able to see you in dreams so I thought this would finally be a sign of your condition improving. However, as I peered towards you I noticed your body was writhing in pain, struggling against itself. I heard a voice speaking to you but I could not understand it. It sounded just like flowing water..."
+
+*Neung had turned away and was beginning to clean his desk of the books spread across it from the night before. As Tchyen continued speaking he slid the books into place on one of the many shelves lining the walls and began to gather some of his belongings he'd need for the day. He placed them into a small brown sack and tied it around his waist, letting it hang at his hip. He continued to prepare for his day, casually listening to Tchyen speak before freezing at her last statement. He shakes his head, the small beads tied around his neck clicking together as a sound cue for the blind woman to know he's disagreeing.*
+
+"Worry not my sweet Tchyen, I am fine and have indeed slept well the past night. Your concern is for naught however I am not troubled by these visions. But please listen to me here, you must not speak a word of this to anyone else do you understand?"
+
+*The nun nods quickly, and curtly thanks the priest before shuffling out of the room, bidding him a good day on her way out. Neung closed the door behind her and sunk into the hay mattress on his bed. He bent forwards, cupping his face in his hands and breathing heavily. He thought back past his awakening, trying his hardest to recall his dream. It was hard, he had never had a real dream before and the feeling was very unfamiliar. The voice had told him to let go of his control and forget his inhibitions to allow his mind to wrest control. And then there was Tchyen, she had seen him writhing in pain and heard the voice. He had hoped to forget about the night easily but it seemed it would not be so. He just hoped the sister would not gossip, although he knew she was not the type to and he trusted her deeply. Standing up, he walked over to the window and looked out over the town of [[Name]] where he resided, seeing the populace already busy milling about the markets and buildings of the town. He sighed and turned to open the door, walking down the spiraling stairs of his tower and emerging out into the hot day, making his way towards the temple to Ngtsu.*
+
+**Cont. in** [[A Crisis of Faith]]
+#### Images:
+![[priest1.png]]
+![[visions1.png]]
+#### Notes:
+[[2023-09-04]]
+[[2023-09-05]]
+[[2023-09-06]]
